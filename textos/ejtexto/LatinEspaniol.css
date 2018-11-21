@@ -1,0 +1,17 @@
+.latin{/* Frases negras, a la izquierda*/
+    text-align:left;
+    font-family:
+    color:black
+}
+.español{
+    text-align:right;
+    color:white;
+}
+h1{
+    text-align:center;
+    letter-spacing:3px;
+
+}
+body{
+    background-color:#eca
+}
