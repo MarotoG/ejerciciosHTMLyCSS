@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lobster|Ranga');
 @font-face{
     font-family:"Geometric";
-    src: url('imagenes/Geometric.otf');
+    src: url('objetos/Geometric.otf');
 }
 p.latin{/* Frases negras, a la izquierda*/
     margin:0;
