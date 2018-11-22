@@ -1,17 +1,36 @@
-.latin{/* Frases negras, a la izquierda*/
-    text-align:left;
-    font-family:
-    color:black
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Lobster|Ranga');
+p.latin{/* Frases negras, a la izquierda*/
+    margin:0;
+    
+    font-family:'Lobster';
+    font-size:2.5rem;
 }
 .español{
+    margin:0 0 3rem;
+    font-family:"Ranga";
     text-align:right;
     color:white;
+    font-size:3.5rem
+}
+p.intro{
+    margin-left: 30%;
+    margin-right:30%;
+    font-family: "Black Han Sans",sans-serif;
+    line-height: 2rem;
+    text-align: justify;
 }
 h1{
-    text-align:center;
+    font-family: 'Fascinate ';
+    font-size:3rem;
     letter-spacing:3px;
+    text-align:center;
+    letter-spacing: 1.5rem;
+    text-transform: uppercase;
 
 }
+
 body{
     background-color:#eca
 }
